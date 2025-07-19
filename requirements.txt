@@ -1,0 +1,24 @@
+Dataset preprocessing Step:
+python== 3.6
+numpy==1.19.5
+scipy == 1.4.1
+Sklearn== 0.22.2
+pyEDFlib == 0.1.17 
+gumpy == 0.5.0
+pandas == 1.19.5
+
+
+
+TDMANN training:
+python== 3.6
+numpy==1.19.5
+scipy == 1.4.1
+Sklearn== 0.22.2
+pandas == 1.1.5
+tensorflow==1.15.2
+imblearn==0.4.3
+keras==2.2.4
+matplotlib==3.2.2
+ 
+
+ 
